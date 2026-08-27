@@ -1,16 +1,16 @@
 # Precious Plastics Recycling Center Research Log
 
-**Student:**  
-**Course:** Engineering I or Engineering II  
+**Student:**  Ethan Gregg
+**Course:** Engineering I
 
 ## Week 1 — Defining the Problem
 
-**Date:**  
+**Date:**  8/27/2026
 
 ### Questions I Investigated
 
-- 
-- 
+- Why address plastic waste
+- Is it better to reuse plastic or reduce plastic waste
 - 
 
 ### Research Findings
