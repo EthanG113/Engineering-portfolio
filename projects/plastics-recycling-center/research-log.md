@@ -11,48 +11,46 @@
 
 - Why address plastic waste
 - Is it better to reuse plastic or reduce plastic waste
-- 
+- what % of plastic is discrded
 
 ### Research Findings
 
-#### Finding 1: [Descriptive heading]
+#### Finding 1: why address plastic waste
 
 **What I found:**  
-Explain the information in your own words.
+The reason we should address plastic waste is because trash generation has been growing substantualy.
 
 **Why it matters to our project:**  
-Explain how this could affect what we design, build, accept, purchase,
-or manufacture.
+This can effect our project by making us have to have a bigger facility that we were intentualy having.
 
 **Source:**  
-[Source title](paste URL here)
+https://environment.virginia.edu/news/new-research-finds-harmful-bias-towards-recycling-over-reduction-and-reuse
 
-#### Finding 2: [Descriptive heading]
+#### Finding 2: Is it better to reuse plastic or reduce plastic waste
 
 **What I found:**  
-
+reducing waste is better than recycling for the planet but most consumers have a base of just recycling instead of redusing.
 **Why it matters to our project:**  
-
+It matters because we should also be trying to promote redusing.
 **Source:**  
-[Source title](paste URL here)
+https://www.nature.com/natsustain/research-articles
 
-#### Finding 3: [Descriptive heading]
+#### Finding 3: what % of plastic is discarded
 
 **What I found:**  
-
+91% of plastic is just discarded and 9% is actually recycled and we are acumilating so much plastic in our landfills.
 **Why it matters to our project:**  
-
+we should try to recycle as much plastic as possible so it doesn't get discarded.
 **Source:**  
-[Source title](paste URL here)
+https://www.oecd.org/en.html
 
 ### Source Reliability
 
-Explain briefly why your sources are trustworthy.
+the first source is .edu and the last is .org, but the second one is less reliable because its .com, but other websites say something similer.
 
 ### Most Important Conclusion
 
-What is the most important thing the project team should learn from
-your research?
+That people should star reducing instead of recycling because of how big of an impact it has.
 
 ### New Questions
 
