@@ -18,6 +18,7 @@
   -Colin
   -Hunter
   -Tristan
+  
   -Machine Space Team 
   -Xlu
   -Xaviar
@@ -25,6 +26,7 @@
   -Jack
   -Aydyn
   -Ash
+  
   -Shredder Team
   -Ethan
   -Davin
