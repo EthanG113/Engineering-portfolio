@@ -12,7 +12,7 @@
 
   -we also need to be cashes around the cart and machens
 
-#10/20 update
+# 10/20 update
   -Collection / Sorting / Storage Team 
   -Ezra Schnekloth
   -Taisiia
