@@ -12,23 +12,23 @@
   -we also need to be cashes around the cart and machens
 #10/20 update
   -Collection / Sorting / Storage Team 
-  Ezra Schnekloth
-  Taisiia
-  Fernando
-  Colin
-  Hunter
-  Tristan
+  -Ezra Schnekloth
+  -Taisiia
+  -Fernando
+  -Colin
+  -Hunter
+  -Tristan
   -Machine Space Team 
-  Xlu
-  Xaviar
-  Logan
-  Jack
-  Aydyn
-  Ash
+  -Xlu
+  -Xaviar
+  -Logan
+  -Jack
+  -Aydyn
+  -Ash
   -Shredder Team
-  Ethan
-  Davin
-  Isaac
-  Beckham
-  Noah
-  Jovani
+  -Ethan
+  -Davin
+  -Isaac
+  -Beckham
+  -Noah
+  -Jovani
