@@ -10,3 +10,25 @@
   -for safety we need equipment (gloves, eye protection, close toed shoes, etc...)
 
   -we also need to be cashes around the cart and machens
+#10/20 update
+  -Collection / Sorting / Storage Team 
+Ezra Schnekloth
+Taisiia
+Fernando
+Colin
+Hunter
+Tristan
+  -Machine Space Team 
+Xlu
+Xaviar
+Logan
+Jack
+Aydyn
+Ash
+  -Shredder Team
+Ethan
+Davin
+Isaac
+Beckham
+Noah
+Jovani
