@@ -21,3 +21,15 @@
   
   ### Shredder Team:
   Ethan, Davin, Isaac, Beckham, Noah, and Jovani
+
+# 11/3 update
+  ### What we finished:
+  -send cut send 3mm parts and put it into our cart
+  -send cut send 5mm parts and put it into our cart
+  -send cut send 6mm parts and put it into our cart
+  -in our note book completed the part list for 3mm parts
+  -in our note book completed the part list for 5mm parts
+  -in our note book completed the part list for 6mm parts
+  -calculated the price for each 3mm part and the total
+  -calculated the price for each 5mm part and the total
+  -calculated the price for each 6mm part and the total
