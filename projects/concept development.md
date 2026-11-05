@@ -41,3 +41,8 @@
   -calculated the price for each 5mm part and the total
   
   -calculated the price for each 6mm part and the total
+
+# 11/5 update
+  -we have found other options for the shredder that we can buy pre-built.
+
+  -we have found things from eBay, https://www.sustainabledesign.studio/store, and https://www.plasticpreneur.com/multipurpose-production 
